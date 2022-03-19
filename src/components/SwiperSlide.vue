@@ -59,7 +59,7 @@ import "swiper/css/autoplay";
 import { Autoplay, Pagination, Navigation } from "swiper";
 
 export default {
-  name: "HomeView",
+  name: "SwiperSlide",
   components: {
     Swiper,
     SwiperSlide,

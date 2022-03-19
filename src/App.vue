@@ -1,14 +1,14 @@
 <template>
-  <HelloWorld />
+  <SwiperSlide />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import SwiperSlide from "./components/SwiperSlide.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    SwiperSlide,
   },
 };
 </script>
